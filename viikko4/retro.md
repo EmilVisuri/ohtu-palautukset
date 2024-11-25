@@ -1,0 +1,5 @@
+Retrospektiivit ovat tietyn tiimin kokouksia, joissa käsitellään usein mitkä asiat ovat sujuneet hyvin, mitkä ei niin hyvin ja mitä asioita voitaisiin parantaa ja miten nämä parannukset voitaisiin suorittaa. Retrospektiivit pidetään tyypillisesti projektin tai iteraation lopussa. 
+
+Yksi retrospektiivin menetelmä on start, stop, continue, more of, less of wheel, jossa tiimi arvioi viiden eri kategorian kautta kokemuksiaan projektin tai iteraation lopussa. Tässä tarkoituksena on avoin palaute ja tunnistaa konkreettisia muutoksia. Tämä on nopea tapa käydä “meta” arvio tiimin työskentelytavoista ja toimivuudesta. 
+
+Toinen tapa on glad, sad, mad. Tässä tarkoituksena on, että asiat jaotellaan näihin kolmeen eri tunnekategoriaan. Tämän avulla tiimi voi käsitellä, sekä käytäntöön, että tunteisiin liittyviä asioita. Tämä on hyvä ja yksinkertainen tapa käsitellä esimerkiksi iteraatiossa tapahtuneita asioita. 
